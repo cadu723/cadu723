@@ -33,6 +33,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cadu723/cadu723/output/snake.svg" alt="Snake animation" />
-
 ###
